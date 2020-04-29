@@ -1,2 +1,7 @@
 # the-tiny-webpack
-the-tiny-webpack
+
+1.  分析入口 读取入口模块内容；
+
+2.  递归的分析其他依赖模块；
+
+3.  生成可以在了浏览器端执行的 bundle.js 文件。
